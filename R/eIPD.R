@@ -1,0 +1,17 @@
+#' an IPD set
+#'
+#' an articial data set serves as the IPD set.
+#' this is used in Glimm & Yau (2021)
+#'
+#' @docType data
+#'
+#' @usage data(eIPD)
+#'
+#' @keywords datasets
+#'
+#' @references Glimm & Yau (2021)
+#'
+#'
+#' @examples
+#' data(eIPD)
+"eIPD"
